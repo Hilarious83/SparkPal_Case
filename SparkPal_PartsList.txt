@@ -1,0 +1,11 @@
+SparkPal Partslist
+
+Micro USB Port: https://www.amazon.de/dp/B0754MNQPN/ref=cm_sw_em_r_mt_dp_QPYTTJWX28T92MZTH5Y0?_encoding=UTF8&psc=1 
+Case (188x119x37.5 mm): https://www.amazon.de/dp/B0827TX2QL/ref=cm_sw_em_r_mt_dp_KJQEHBZWCYSC9K2Y04E4?_encoding=UTF8&psc=1
+Footswitches: https://www.amazon.de/dp/B073S4YVF4/ref=cm_sw_em_r_mt_dp_FY134SJ5C0ZQ0H1SZY9D?_encoding=UTF8&psc=1
+ESP32 (32U Model): https://www.aliexpress.com/item/4001050278803.html?spm=a2g0s.9042311.0.0.7fd64c4dJibFtU
+Display: https://www.aliexpress.com/item/32639731302.html?spm=a2g0s.9042311.0.0.27424c4dfVRLLk
+
+Optional:
+Batteryshield: https://www.aliexpress.com/item/32969968181.html?spm=a2g0s.9042311.0.0.7fd64c4dJibFtU
+Battery: https://www.aliexpress.com/item/32366428568.html?spm=a2g0s.9042311.0.0.7fd64c4dJibFtU
