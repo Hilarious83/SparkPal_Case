@@ -12,3 +12,6 @@ In retrospect I should have used a bigger case b/c the switches are too close to
 I've also included some pictures of the building process (don't pay too much attention to my limited soldering skills plz)
 
 Have fun jamming and hit me up if there are any questions.
+
+Video of the final version:
+https://youtu.be/xdM0lbbVbqw
