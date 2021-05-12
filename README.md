@@ -13,6 +13,6 @@ I've also included some pictures of the building process (don't pay too much att
 
 Have fun jamming and hit me up if there are any questions.
 
-Video of the final version:
+Video of the final version (youtube-link):
 
-[![Youtube_video1](https://user-images.githubusercontent.com/23031752/117959519-6501b900-b31c-11eb-8953-c309cf937b1e.JPEG)](https://youtu.be/xdM0lbbVbqw)![IMG_9406]
+[![Youtube_video1](https://user-images.githubusercontent.com/23031752/117959519-6501b900-b31c-11eb-8953-c309cf937b1e.JPEG)](https://youtu.be/xdM0lbbVbqw)
