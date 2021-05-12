@@ -17,7 +17,8 @@ Video of the final version (youtube-link):
 
 [![Youtube_video1](https://user-images.githubusercontent.com/23031752/117959519-6501b900-b31c-11eb-8953-c309cf937b1e.JPEG)](https://youtu.be/xdM0lbbVbqw)
 
-Build Process:
+
+-----     Build Process:     -----
 
 
 Drilling the holes:
